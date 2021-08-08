@@ -3,6 +3,8 @@ LetsHaveKiddos | DOTS-Github-dark
 ===========================
 An entire Arch Linux system dedicated to the github-dark colorscheme. 
 
+Heavily inspired by: https://github.com/projekt0n/github-nvim-theme
+
 ## Tools used
 i3-gaps, i3lock-fancy or i3lock-color & betterlockscreen, rofi, dunst, kitty, sublime, neovim, polybar, thunar, zathura.
 
